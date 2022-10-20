@@ -54,7 +54,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'https://damp-hollows-19441.herokuapp.com/'),
+    'url' => 'https://damp-hollows-19441.herokuapp.com/',
 
     'asset_url' => env('ASSET_URL'),
 
